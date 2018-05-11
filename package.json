@@ -1,0 +1,28 @@
+{
+  "name": "moment-strict",
+  "version": "1.0.0",
+  "description": "This is an AngularJs service that wraps Moment.js and removes Moment's ability to fall back to native Date parsing. Native Date parsing is often problematic because different browsers handle various nonstandard date strings differently. Here are a couple examples:",
+  "main": "moment-strict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lasp/moment-strict.git"
+  },
+  "author": "Brian Putnam",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.3",
+    "angular-bootstrap": "^0.12.2",
+    "angular-mocks": "^1.5.3",
+    "gulp": "^3.9.1",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "moment": "^2.12.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
