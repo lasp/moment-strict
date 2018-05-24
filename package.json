@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/lasp/moment-strict.git"
   },
-  "author": "Brian Putnam",
+  "author": "LASP Web Application Development Team <web.support@lasp.colorado.edu>",
   "license": "ISC",
   "devDependencies": {
     "angular": "^1.5.3",
